@@ -6,7 +6,7 @@ Communication system simulation written in MATLAB. The procedure of our simulati
 
 First, the sender generates a random binary signal, which is then modulated by BPSK or 64-QAM and oversampled. The resulting signal goes through a low pass filter, and is then added up with additive white Gaussian noise (AWGN).
 
-To restore the noised signal, we dawnsample and demodulate the signal, and compare it with the original signal. The error rate is calculated to evaluate the performance of our communication system.
+To restore the noised signal, we first pass the signal through the same low pass filter used previously, and then dawnsample and demodulate the signal, and compare it with the original signal. The error rate is calculated to evaluate the performance of our communication system.
 
 All the ```.m``` files need to be run on MATLAB version R2016b or above, otherwise functions such as ```randi``` or ```rcosdesign``` may report errors.
 

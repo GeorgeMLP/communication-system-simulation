@@ -5,124 +5,136 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 185 55"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Workflow.svg"
+   width="185mm"
    height="55mm"
-   width="185mm">
+   viewBox="0 0 185 55"
+   version="1.1"
+   id="svg8">
+  <sodipodi:namedview
+     inkscape:current-layer="layer1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="103.93701"
+     inkscape:cx="498.75807"
+     inkscape:zoom="1.8806869"
+     showgrid="false"
+     id="namedview1007"
+     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs2">
     <marker
-       orient="auto"
-       refY="0"
-       refX="0"
+       style="overflow:visible"
        id="marker2195"
-       style="overflow:visible">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         id="path2193"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2193" />
     </marker>
     <marker
-       orient="auto"
-       refY="0"
-       refX="0"
+       style="overflow:visible"
        id="marker2055"
-       style="overflow:visible">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         id="path2053"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2053" />
     </marker>
     <marker
-       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker1935"
-       refX="0"
-       refY="0"
-       orient="auto">
+       style="overflow:visible">
       <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         id="path1933"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1933" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker1819"
-       refX="0"
-       refY="0"
-       orient="auto">
+       style="overflow:visible">
       <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         id="path1817"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1817" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       orient="auto"
-       refY="0"
-       refX="0"
+       style="overflow:visible"
        id="marker1707"
-       style="overflow:visible">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         id="path1705"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1705" />
     </marker>
     <marker
-       orient="auto"
-       refY="0"
-       refX="0"
+       style="overflow:visible"
        id="marker1603"
-       style="overflow:visible">
+       refX="0"
+       refY="0"
+       orient="auto">
       <path
-         id="path1601"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1601" />
     </marker>
     <marker
-       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker1545"
-       refX="0"
-       refY="0"
-       orient="auto">
+       style="overflow:visible">
       <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         id="path1543"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1543" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker1375"
-       refX="0"
-       refY="0"
-       orient="auto">
+       style="overflow:visible">
       <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         id="path1373"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1373" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       orient="auto"
-       refY="0"
-       refX="0"
+       style="overflow:visible"
        id="marker1309"
-       style="overflow:visible">
-      <path
-         id="path1307"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker1221"
        refX="0"
        refY="0"
        orient="auto">
@@ -130,23 +142,23 @@
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1219" />
+         id="path1307" />
     </marker>
     <marker
        orient="auto"
        refY="0"
        refX="0"
-       id="marker1177"
+       id="marker1221"
        style="overflow:visible">
       <path
-         id="path1175"
+         id="path1219"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
        style="overflow:visible"
-       id="Arrow1Lend"
+       id="marker1177"
        refX="0"
        refY="0"
        orient="auto">
@@ -154,19 +166,31 @@
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path856" />
+         id="path1175" />
     </marker>
     <marker
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0"
+       orient="auto"
        refY="0"
-       orient="auto">
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
       <path
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         id="path856"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path853" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path853"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
     </marker>
   </defs>
   <metadata
@@ -177,294 +201,294 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1">
     <rect
-       y="21.695824"
-       x="1.7008928"
-       height="11.90625"
-       width="25.324406"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect833"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
+       width="25.324406"
+       height="11.90625"
+       x="1.7008928"
+       y="21.695824" />
     <text
-       id="text837"
-       y="29.06636"
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="3.0238094"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="29.06636"
-         x="3.0238094"
-         id="tspan835">Bit Error Rate</tspan></text>
-    <rect
-       y="24.54467"
-       x="36.299744"
-       height="6.9645066"
-       width="20.193674"
-       id="rect839"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.328053;stroke-miterlimit:4;stroke-dasharray:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="37.041668"
        y="29.06636"
-       id="text847"><tspan
-         id="tspan845"
-         x="37.041668"
+       id="text837"><tspan
+         id="tspan835"
+         x="3.0238094"
          y="29.06636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">Comparison</tspan></text>
-    <path
-       id="path849"
-       d="m 35.413211,28.165368 c -2.49425,0 -4.988766,0 -7.483546,0"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">Bit Error Rate</tspan></text>
     <rect
-       y="3.2972713"
-       x="35.1339"
-       height="10.982136"
-       width="23.009266"
-       id="rect1155"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.328053;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect839"
+       width="20.193674"
+       height="6.9645066"
+       x="36.299744"
+       y="24.54467" />
     <text
-       id="text1159"
-       y="7.9520831"
-       x="37.175304"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="7.9520831"
-         x="37.175304"
-         id="tspan1157">Binary Data</tspan><tspan
-         id="tspan1161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="12.406491"
-         x="37.175304">Generation</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1163"
-       width="23.009266"
-       height="10.982136"
-       x="35.000263"
-       y="40.714993" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       id="text847"
+       y="29.06636"
        x="37.041668"
-       y="45.369801"
-       id="text1169"><tspan
-         id="tspan1165"
-         x="37.041668"
-         y="45.369801"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">Binary Data</tspan><tspan
-         x="37.041668"
-         y="49.824207"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         id="tspan1167">Judgment</tspan></text>
+         y="29.06636"
+         x="37.041668"
+         id="tspan845">Comparison</tspan></text>
     <path
-       id="path1171"
-       d="m 46.638532,15.470067 c 0,2.672958 0,5.345655 0,8.018084"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1177)" />
-    <path
-       id="path1209"
-       d="m 46.237628,40.058862 c 0,-2.494251 0,-4.988766 0,-7.483546"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1221)" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 35.413211,28.165368 c -2.49425,0 -4.988766,0 -7.483546,0"
+       id="path849" />
     <rect
-       y="3.039567"
-       x="69.247192"
-       height="11.764812"
-       width="27.132809"
-       id="rect1259"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1155"
+       width="23.009266"
+       height="10.982136"
+       x="35.1339"
+       y="3.2972713" />
     <text
-       id="text1267"
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="37.175304"
        y="7.9520831"
-       x="70.477219"
+       id="text1159"><tspan
+         id="tspan1157"
+         x="37.175304"
+         y="7.9520831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">Binary Data</tspan><tspan
+         x="37.175304"
+         y="12.406491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
+         id="tspan1161">Generation</tspan></text>
+    <rect
+       y="40.714993"
+       x="35.000263"
+       height="10.982136"
+       width="23.009266"
+       id="rect1163"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text1169"
+       y="45.369801"
+       x="37.041668"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="7.9520831"
-         x="70.477219"
-         id="tspan1265">BPSK/64-QAM</tspan><tspan
-         id="tspan1287"
+         y="45.369801"
+         x="37.041668"
+         id="tspan1165">Binary Data</tspan><tspan
+         id="tspan1167"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="12.406491"
-         x="70.477219">Modulation</tspan></text>
+         y="49.824207"
+         x="37.041668">Judgment</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1177)"
+       d="m 46.638532,15.470067 c 0,2.672958 0,5.345655 0,8.018084"
+       id="path1171" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1221)"
+       d="m 46.237628,40.058862 c 0,-2.494251 0,-4.988766 0,-7.483546"
+       id="path1209" />
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1289"
+       id="rect1259"
        width="27.132809"
        height="11.764812"
-       x="68.712654"
-       y="40.190018" />
+       x="69.247192"
+       y="3.039567" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="69.94268"
-       y="45.102531"
-       id="text1295"><tspan
-         id="tspan1291"
-         x="69.94268"
-         y="45.102531"
+       x="70.477219"
+       y="7.9520831"
+       id="text1267"><tspan
+         id="tspan1265"
+         x="70.477219"
+         y="7.9520831"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">BPSK/64-QAM</tspan><tspan
+         x="70.477219"
+         y="12.406491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
+         id="tspan1287">Modulation</tspan></text>
+    <rect
+       y="40.190018"
+       x="68.712654"
+       height="11.764812"
+       width="27.132809"
+       id="rect1289"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text1295"
+       y="45.102531"
+       x="69.94268"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
+         y="45.102531"
          x="69.94268"
+         id="tspan1291">BPSK/64-QAM</tspan><tspan
+         id="tspan1293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
          y="49.556938"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         id="tspan1293">Demodulation</tspan></text>
+         x="69.94268">Demodulation</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1309)"
+       id="path1303"
        d="m 59.354722,9.1892326 c 2.49425,0 4.988766,0 7.483546,0"
-       id="path1303" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1309)" />
     <path
-       id="path1369"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1375)"
        d="m 66.817381,46.206062 c -2.49425,0 -4.988766,0 -7.483546,0"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1375)" />
+       id="path1369" />
     <rect
-       y="6.5165515"
-       x="106.34103"
-       height="6.1471992"
-       width="29.666916"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1449"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
-    <text
-       id="text1453"
-       y="10.49114"
-       x="107.56858"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="10.49114"
-         x="107.56858"
-         id="tspan1451">8× Oversampling</tspan></text>
-    <path
-       id="path1461"
-       d="m 97.44063,9.3282396 c 2.49425,0 4.98877,0 7.48355,0"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1545)" />
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1579"
        width="29.666916"
        height="6.1471992"
-       x="105.93475"
-       y="43.795261" />
+       x="106.34103"
+       y="6.5165515" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="106.63314"
-       y="47.769855"
-       id="text1583"><tspan
-         id="tspan1581"
-         x="106.63314"
-         y="47.769855"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">8× Dawnsampling</tspan></text>
+       x="107.56858"
+       y="10.49114"
+       id="text1453"><tspan
+         id="tspan1451"
+         x="107.56858"
+         y="10.49114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">8× Oversampling</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1603)"
-       d="m 104.90329,46.606966 c -2.49425,0 -4.988767,0 -7.483547,0"
-       id="path1597" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1545)"
+       d="m 97.44063,9.3282396 c 2.49425,0 4.98877,0 7.48355,0"
+       id="path1461" />
     <rect
-       y="4.2102528"
-       x="146.15654"
-       height="11.149951"
-       width="17.029881"
-       id="rect1687"
+       y="43.795261"
+       x="105.93475"
+       height="6.1471992"
+       width="29.666916"
+       id="rect1579"
        style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
-       id="text1691"
-       y="8.6148834"
-       x="147.54686"
+       id="text1583"
+       y="47.769855"
+       x="106.63314"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="8.6148834"
-         x="147.54686"
-         id="tspan1689">Low Pass</tspan><tspan
-         id="tspan1693"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="13.069292"
-         x="147.54686">Filtering</tspan></text>
+         y="47.769855"
+         x="106.63314"
+         id="tspan1581">8× Dawnsampling</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1707)"
-       d="m 136.86289,9.5955093 c 2.49425,0 4.98877,0 7.48355,0"
-       id="path1701" />
+       id="path1597"
+       d="m 104.90329,46.606966 c -2.49425,0 -4.988767,0 -7.483547,0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1603)" />
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1799"
+       id="rect1687"
        width="17.029881"
        height="11.149951"
-       x="145.62199"
-       y="41.617229" />
+       x="146.15654"
+       y="4.2102528" />
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="146.48315"
-       y="46.021862"
-       id="text1805"><tspan
-         id="tspan1801"
-         x="146.48315"
-         y="46.021862"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">High Pass</tspan><tspan
-         x="146.48315"
-         y="50.476269"
+       x="147.54686"
+       y="8.6148834"
+       id="text1691"><tspan
+         id="tspan1689"
+         x="147.54686"
+         y="8.6148834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">Low Pass</tspan><tspan
+         x="147.54686"
+         y="13.069292"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         id="tspan1803">Filtering</tspan></text>
+         id="tspan1693">Filtering</tspan></text>
     <path
-       id="path1813"
-       d="m 144.45918,46.740601 c -2.49425,0 -4.98877,0 -7.48355,0"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1819)" />
-    <text
-       id="text1921"
-       y="29.467266"
-       x="153.03664"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';stroke-width:0.264583"
-         y="29.467266"
-         x="153.03664"
-         id="tspan1919">+</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1935)"
-       d="m 154.74906,16.539145 c 0,2.672958 0,5.345655 0,8.018084"
-       id="path1929" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2055)"
-       d="m 154.61542,32.462568 c 0,2.494251 0,4.988766 0,7.483546"
-       id="path2049" />
+       id="path1701"
+       d="m 136.86289,9.5955093 c 2.49425,0 4.98877,0 7.48355,0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1707)" />
     <rect
-       y="23.587154"
-       x="168.08325"
-       height="10.482023"
-       width="14.090162"
-       id="rect2171"
+       y="41.617229"
+       x="145.62199"
+       height="11.149951"
+       width="17.029881"
+       id="rect1799"
        style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
-       id="text2175"
-       y="37.551369"
-       x="169.44888"
-       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.264583"
-         y="37.551369"
-         x="169.44888"
-         id="tspan2173" /></text>
-    <text
-       id="text2179"
-       y="27.72464"
-       x="169.60736"
+       id="text1805"
+       y="46.021862"
+       x="146.48315"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="27.72464"
-         x="169.60736"
-         id="tspan2177">AWGN</tspan><tspan
-         id="tspan2181"
+         y="46.021862"
+         x="146.48315"
+         id="tspan1801">Low Pass</tspan><tspan
+         id="tspan1803"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
-         y="32.179047"
-         x="169.60736">Signal</tspan></text>
+         y="50.476269"
+         x="146.48315">Filtering</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2195)"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1819)"
+       d="m 144.45918,46.740601 c -2.49425,0 -4.98877,0 -7.48355,0"
+       id="path1813" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="153.03664"
+       y="29.467266"
+       id="text1921"><tspan
+         id="tspan1919"
+         x="153.03664"
+         y="29.467266"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';stroke-width:0.264583">+</tspan></text>
+    <path
+       id="path1929"
+       d="m 154.74906,16.539145 c 0,2.672958 0,5.345655 0,8.018084"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1935)" />
+    <path
+       id="path2049"
+       d="m 154.61542,32.462568 c 0,2.494251 0,4.988766 0,7.483546"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2055)" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2171"
+       width="14.090162"
+       height="10.482023"
+       x="168.08325"
+       y="23.587154" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="169.44888"
+       y="37.551369"
+       id="text2175"><tspan
+         id="tspan2173"
+         x="169.44888"
+         y="37.551369"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="169.60736"
+       y="27.72464"
+       id="text2179"><tspan
+         id="tspan2177"
+         x="169.60736"
+         y="27.72464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583">AWGN</tspan><tspan
+         x="169.60736"
+         y="32.179047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:0.264583"
+         id="tspan2181">Signal</tspan></text>
+    <path
+       id="path2189"
        d="m 166.10801,28.566273 c -2.49425,0 -4.98877,0 -7.48355,0"
-       id="path2189" />
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2195)" />
   </g>
 </svg>
